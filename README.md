@@ -124,3 +124,8 @@ This repository contains a detailed walkthrough of the concepts and technologies
 - **LinkedIn**:  
   Get a glimpse of my accomplishments:  
   [Visit LinkedIn Profile](https://www.linkedin.com/in/ghulam-mujtaba-16544230a)
+
+## Resume
+
+To view my detailed resume, click here:  
+[View Resume](https://drive.google.com/file/d/1V3V76w6Q3MjGN-GhUVdgawAH3lRRbqBY/view?usp=drive_link)
